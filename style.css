@@ -1,0 +1,102 @@
+/*
+font: sans-serif
+background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+border-bottom: 1px solid rgba(0,0,0,0.1);
+text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+background-color: rgba(255,255,255,0.2);
+ */
+body{
+  background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+  background-size: cover;
+  color:black;
+}
+
+h2{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding-top:10px;
+  padding-bottom: 15px;
+}
+
+ul{
+  margin-top: -10px;
+  text-align: center;
+  margin-left: -30px;
+}
+
+
+li{
+  list-style-type: none;
+  line-height: 40px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #687980;
+  line-height: 40px;
+  margin-left: -9px;
+}
+
+a{
+  font-size: 14px;
+  color:black;
+  text-decoration: none;
+}
+button{
+background-color: #fff600;
+width:160px;
+height: 45px;
+border-style: none;
+border-radius: 0.2em;
+box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+margin-top: 20px;
+font-weight:600;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family:  sans-serif;
+  font-size: 14px;
+  font-weight: bolder;
+  margin-top: 30px;
+}
+.price{
+  font-size: 50px;
+  font-weight: 300;
+  font-family: sans-serif;
+}
+.container1{
+  background: rgba(255,255,255,0.2);
+  width: 180px;
+  height: 460px;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+  border-radius: 0.2em;
+  margin-right: 35px;
+  padding-left:10px;
+  padding-right: 15px;
+}
+
+.container2{
+    background: rgba(255,255,255,0.2);
+    width: 180px;
+    height: 520px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+    border-radius: 0.2em;
+    margin-right: 35px;
+    padding-left:10px;
+    padding-right: 15px;
+}
+.container3{
+    background: rgba(255,255,255,0.2);
+    width: 180px;
+    height: 425px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+    border-radius: 0.2em;
+    padding-left:10px;
+    padding-right: 15px;
+
+}
